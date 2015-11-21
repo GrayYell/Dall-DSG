@@ -1,0 +1,115 @@
+{
+	"resources": [
+		{
+			"name": "gameBg",
+			"type": "image",
+			"url": "assets/gamebg.jpg"
+		},
+		{
+			"name": "timeBg",
+			"type": "image",
+			"url": "assets/timebg.png"
+		},
+		{
+			"name": "startImg",
+			"type": "image",
+			"url": "assets/start.jpg"
+		},
+		{
+			"name": "role1",
+			"type": "image",
+			"url": "assets/role1.png"
+		},
+		{
+			"name": "role2",
+			"type": "image",
+			"url": "assets/role2.png"
+		},
+		{
+			"name": "role3",
+			"type": "image",
+			"url": "assets/role3.png"
+		},
+		{
+			"name": "role4",
+			"type": "image",
+			"url": "assets/role4.png"
+		},
+		{
+			"name": "role5",
+			"type": "image",
+			"url": "assets/role5.png"
+		},
+		{
+			"name": "arms",
+			"type": "image",
+			"url": "assets/arms.png"
+		},
+		{
+			"name": "text_true",
+			"type": "image",
+			"url": "assets/text_true.png"
+		},
+		{
+			"name": "text_false",
+			"type": "image",
+			"url": "assets/text_false.png"
+		},
+		{
+			"name": "win1",
+			"type": "image",
+			"url": "assets/win1.png"
+		},
+		{
+			"name": "win2",
+			"type": "image",
+			"url": "assets/win2.png"
+		},
+		{
+			"name": "win3",
+			"type": "image",
+			"url": "assets/win3.png"
+		},
+		{
+			"name": "win4",
+			"type": "image",
+			"url": "assets/win4.png"
+		},
+		{
+			"name": "startBut",
+			"type": "image",
+			"url": "assets/startBut.png"
+		},
+		{
+			"name": "shareBut",
+			"type": "image",
+			"url": "assets/shareBut.png"
+		},
+		{
+			"name": "againBut",
+			"type": "image",
+			"url": "assets/againBut.png"
+		},
+		{
+			"name": "shareBox",
+			"type": "image",
+			"url": "assets/shareBox.png"
+		},
+		{
+			"name": "text_common",
+			"type": "image",
+			"url": "assets/text_common.png"
+		},
+		{
+			"name": "logo",
+			"type": "image",
+			"url": "assets/logo.png"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "gameBg,timeBg,startImg,role1,role2,role3,role4,role5,arms,text_true,text_false,win1,win2,win3,win4,startBut,shareBut,againBut,shareBox,text_common,logo"
+		}
+	]
+}
